@@ -1,6 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=ffd3d3&height=300&section=header&text=MINAH's%20gihhub&fontSize=80&fontColor=d6ace6" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=ffd3d3&height=300&section=header&text=MINAH's%20github&fontSize=80&fontColor=d6ace6" />
 
-![Lim minah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=01MINAH&show_icons=true&theme=radical&count_private=true)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=01MINAH&layout=compact)
 
 
